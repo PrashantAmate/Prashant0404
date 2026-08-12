@@ -1,8 +1,7 @@
-# Prashant0404
-# 🌟 Prashant Amate | Software Developer
+# 👋 Hi, I'm Prashant Amate
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Prashant+Amate;Java+Backend+Developer;DSA+Enthusiast;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Java+Backend+Engineer;DSA+Enthusiast;Building+Scalable+Systems" />
 </p>
 
 ---
@@ -10,7 +9,7 @@
 ## 🚀 DevOps Style Banner
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -19,16 +18,13 @@
 
 ---
 
-## 👋 About Me
+## 💡 About Me
 
-💡 Software development student with strong backend and system design skills
-🚀 Built real-world applications handling high-volume transactions
-🔥 Passionate about DSA and scalable systems
-
-* 🎓 B.E. IT (Pune)
-* ⚡ 150+ DSA problems solved
-* 🏗️ Built systems handling **500+ transactions/day**
-* 🎯 Target: Product-based companies
+* 🎓 B.E. Information Technology (Pune)
+* 💻 Backend-focused developer (Java + SQL)
+* 🔥 Solved 150+ DSA problems
+* ⚡ Built systems handling **500+ daily transactions**
+* 🎯 Goal: Product-based SDE role
 
 ---
 
@@ -43,15 +39,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashantAmate&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrashantAmate&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrashantAmate&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=PrashantAmate&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  ⚡ “Build Systems. Solve Problems. Stay Consistent.” ⚡
+  ⚡ Clean Code • Strong Logic • Consistent Growth ⚡
 </p>
