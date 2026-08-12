@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PrashantAmate&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://streak-stats.demolab.com?user=PrashantAmate&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Prashant0404&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Prashant0404&theme=tokyonight" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrashantAmate/PrashantAmate/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Prashant0404/Prashant0404/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
